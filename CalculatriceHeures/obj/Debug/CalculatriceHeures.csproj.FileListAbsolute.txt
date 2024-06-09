@@ -1,0 +1,11 @@
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\bin\Debug\CalculatriceHeures.exe.config
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\bin\Debug\CalculatriceHeures.exe
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\bin\Debug\CalculatriceHeures.pdb
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.csproj.AssemblyReference.cache
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.CalculHeure.resources
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.Properties.Resources.resources
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.csproj.GenerateResource.cache
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.exe
+D:\PROGRAMMING STUFF\CalculatriceHeures\CalculatriceHeures\CalculatriceHeures\obj\Debug\CalculatriceHeures.pdb
